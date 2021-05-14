@@ -35,7 +35,7 @@ export default {
             var score = Number(document.getElementById("finalscore").value);
             if(score === '')
             {
-                alert("Dm, nhập final score đi kìa cha nội!");
+                alert("Nhập final score");
                 return;
             }
             $(document).ready(function(){ 
