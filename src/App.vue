@@ -23,7 +23,7 @@ export default {
             player2:{name:"player2",score:72, currentScore:0, active:false},
             start:false,
             finalscore: 0,
-            rule: "Chơi thì chơi không chơi thì cút!!!",
+            rule: "Chơi theo lượt, bạn sẽ bị mất lượt và điểm quay của lần đó nếu quay vào ô mất lượt",
             randomNumber: [1,1],
             winner1: false,
             winner2:false
